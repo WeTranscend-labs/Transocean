@@ -10,10 +10,6 @@ This project aims to create a decentralized platform for identifying and trackin
 ## Development Guidelines
 - Fork the repo: [Transocean](https://github.com/WeTranscend-labs/Transocean.git)
 
-
-## **Project Description**  
-
-
 ## **Project Description**
 
 ### What does your project do?
