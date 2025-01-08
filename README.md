@@ -89,7 +89,7 @@ Next, we plan to expand PortTrack by adding the functionality to record ship arr
 	- [Transocean Deployment](https://transocean.vercel.app/)
 	- [Transocean Demo Video](https://www.youtube.com/watch?v=3BRXqVBozb4)
 - **Presentation Slides:**  
-	- [Transocen Vision](https://www.canva.com/design/DAGbZU0XUm0/T4V603ILE3v-_dTHukQRlg/edit)
+	- [Transocean Vision](https://www.canva.com/design/DAGbZU0XUm0/T4V603ILE3v-_dTHukQRlg/edit)
 
 
 ## Contributing
